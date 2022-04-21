@@ -4,7 +4,7 @@
 
 # **GenBerry**
    
-> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) is a script to build Gentoo images for the Raspberry Pi on x86_64 host using QEMU
+> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) is a script to build Gentoo images for the Raspberry Pi on x86_64 host using QEMU*
    
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/GenBerry)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/GenBerry)
