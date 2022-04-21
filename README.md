@@ -74,7 +74,10 @@ requiring qemu which need a gentoo based system.
     * aarch64-linux-gnu (rpi 3, 3+, 4)
     * armv7a-linux-gnueabihf (rPi 2, 3, 3+, 4)
     * armv6j-linux-gnueabihf (rpi 0, 0W, 1)
-* qemu static installed and packaged <!---*(optional: here you need a gentoo based system)*--->
+* qemu static installed and packaged 
+<!---
+*(optional: here you need a gentoo based system)* 
+--->
 
 
 ## Installation
