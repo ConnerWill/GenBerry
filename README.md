@@ -4,7 +4,7 @@
 
 # **GenBerry**
    
-> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) repository description [url](https://github.com)*
+> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) Build Gentoo images for the Raspberry Pi on x86_64 host using QEMU [url](https://github.com)*
    
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/GenBerry)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/GenBerry)
@@ -21,6 +21,7 @@
 <details>
     <summary>Click to expand table of contents</summary>
   ---
+
 * [GenBerry](#genberry)
 * [<strong>GenBerry</strong>](#genberry-1)
    * [Purpose](#purpose)
@@ -35,6 +36,7 @@
    * [Todo](#todo)
    * [Disclaimer](#disclaimer)
    * [Credits](#credits)
+
   ---
   <p align=right>(<a href=#top>back to top</a>)</p>
 </details>
