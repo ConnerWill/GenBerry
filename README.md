@@ -2,19 +2,44 @@
 <div align="center">
   <img width="720" height="320" src="Medias/GenBerry.jpg">
 
-# **{{repo_name}}**
+# **GenBerry**
    
-> *[*{{repo_name}}*](https://github.com/ConnerWill/{{repo_name}}) repository description [url](https://github.com)*
+> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) repository description [url](https://github.com)*
    
-![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/{{repo_name}})
-![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/{{repo_name}})
-![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/{{repo_name}})
-[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/{{repo_name}})
-![GitHub](https://img.shields.io/github/license/ConnerWill/{{repo_name}})
-![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/{{repo_name}}?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/GenBerry)
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/GenBerry)
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/GenBerry)
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/GenBerry)
+![GitHub](https://img.shields.io/github/license/ConnerWill/GenBerry)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/GenBerry?style=social)
 
 ---
 </div>
+
+
+# Table of Contents
+<details>
+    <summary>Click to expand table of contents</summary>
+  ---
+* [GenBerry](#genberry)
+* [<strong>GenBerry</strong>](#genberry-1)
+   * [Purpose](#purpose)
+   * [Requirements](#requirements)
+   * [Installation](#installation)
+      * [Configuration](#configuration)
+      * [Options list](#options-list)
+      * [Examples](#examples)
+      * [The first boot](#the-first-boot)
+   * [Participate](#participate)
+   * [Sources](#sources)
+   * [Todo](#todo)
+   * [Disclaimer](#disclaimer)
+   * [Credits](#credits)
+  ---
+  <p align=right>(<a href=#top>back to top</a>)</p>
+</details>
+
+
 
 ## Purpose
 
