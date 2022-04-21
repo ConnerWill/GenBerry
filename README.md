@@ -66,6 +66,8 @@ requiring qemu which need a gentoo based system.
 
 **Take a tour on the ![wiki](../../wiki) (always a wiP) for more specific documentation.**
 
+---
+
 
 ## Requirements
 
@@ -75,10 +77,12 @@ requiring qemu which need a gentoo based system.
     * armv7a-linux-gnueabihf (rPi 2, 3, 3+, 4)
     * armv6j-linux-gnueabihf (rpi 0, 0W, 1)
 * qemu static installed and packaged 
+
 <!---
 *(optional: here you need a gentoo based system)* 
 --->
 
+---
 
 ## Installation
 
@@ -88,6 +92,7 @@ git clone https://github.com/dervishe-/GenBerry.git
 cd ./GenBerry
 ```
 
+---
 
 ### Configuration
 
@@ -99,12 +104,16 @@ it outside de `GenBerry` directory you will have to specify the Configs director
 You can use the ![config file](./Configs/GenBerry.cfg) to configure the script 
 or directly with CLI options.
 
+---
+
 ### Options list
 
 There are two types of options, the short ones which take an argument and the long 
 ones without any arguments
 * ![Short options](../../wiki/Options#short-options)
 * ![Long options](../../wiki/Options#long-options)
+
+---
 
 ### Examples
 
@@ -126,6 +135,8 @@ You can use this image after, this way:
 sudo dd if=GenBerry_3P-32.img of=/dev/yoursdcard status=progress
 ```
 
+---
+
 ### The first boot
 
 Once your card is ready, plug it in you Pi and boot. Then you have two possibilities:
@@ -143,10 +154,13 @@ board as firstRun.start emerge some packages. Let the things go quietly at its e
 After this reboot, your pi will be available thrue eth0 or wlan0 if you gave a 
 `wpa_supplicant.conf` in option.
 
+-----
+
 ## Participate
 
 Do not hesitate to fill a ticket if you have suggestions, bug reports, found the 
 documentation not clear, or saw english faults [im not perfect ;) ]
+
 
 
 ## Sources
@@ -163,6 +177,7 @@ documentation not clear, or saw english faults [im not perfect ;) ]
 * https://wiki.gentoo.org/wiki/GCC_optimization
 * https://developer.arm.com/architectures/instruction-sets/floating-point
 * https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/
+
 
 
 ## Todo
