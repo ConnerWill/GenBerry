@@ -66,18 +66,16 @@ requiring qemu which need a gentoo based system.
 
 **Take a tour on the ![wiki](../../wiki) (always a wiP) for more specific documentation.**
 
-
+---
 
 ## Requirements
-
----
 
 * An internet connection
 * A crossdev environment to compile the kernel:
     * aarch64-linux-gnu (rpi 3, 3+, 4)
     * armv7a-linux-gnueabihf (rPi 2, 3, 3+, 4)
     * armv6j-linux-gnueabihf (rpi 0, 0W, 1)
-* qemu static installed and packaged 
+* qemu static installed and packaged
 
 <!---
 *(optional: here you need a gentoo based system)* 
