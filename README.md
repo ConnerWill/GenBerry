@@ -4,7 +4,7 @@
 
 # **GenBerry**
    
-> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) is a script to build Gentoo images for the Raspberry Pi on x86_64 host using QEMU [url](https://github.com)*
+> *[*GenBerry*](https://github.com/ConnerWill/GenBerry) is a script to build Gentoo images for the Raspberry Pi on x86_64 host using QEMU
    
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/GenBerry)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/GenBerry)
@@ -22,7 +22,6 @@
     <summary>Click to expand table of contents</summary>
   ---
 
-* [GenBerry](#genberry)
 * [<strong>GenBerry</strong>](#genberry-1)
    * [Purpose](#purpose)
    * [Requirements](#requirements)
@@ -144,8 +143,7 @@ After this reboot, your pi will be available thrue eth0 or wlan0 if you gave a
 ## Participate
 
 Do not hesitate to fill a ticket if you have suggestions, bug reports, found the 
-documentation not clear, or saw english faults (as you can read, my english is 
-far from perfect ;) )
+documentation not clear, or saw english faults [im not perfect ;) ]
 
 
 ## Sources
